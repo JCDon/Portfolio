@@ -1,0 +1,77 @@
+.height-70px {
+    height: 70px;
+}
+
+.border {
+    background: white;
+    color: #1b1e23;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.name {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    background-color: white;
+    color: #1b1e23;
+    text-align: center;
+    border-radius: 12px;
+    width: 200px;
+    font-size: 22px;
+}
+
+body{
+    background-color: #180000;
+    box-shadow: #1b1e23;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.white {
+    background: white;
+    float:left;
+    margin: 90px 40px;
+    position: absolute;
+    width: 830px;
+}
+
+.img {
+    margin: 20px 20px;
+    position: relative;
+    border-style: ridge;
+    border-color: #1b1e23;
+}
+
+.center {
+    align-items: center;
+}
+
+.about {
+    margin: 20px;
+    float: left;
+}
+
+.contact {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 992px) {
+    .white {
+        max-width: 27rem;
+    }
+  }
+@media screen and (max-width: 768px) {
+    .white {
+        max-width: 27rem;
+    }
+  }
+@media screen and (max-width: 400px) {
+    .white {
+        max-width: 30rem;
+    }
+
+    .md {
+        max-width: 100%;
+    }
+  }
+
