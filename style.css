@@ -41,6 +41,20 @@ body{
     border-color: #1b1e23;
 }
 
+.profImg {
+    width: 300px;
+    height: 300px;
+}
+
+.imgFit {
+    height: 350px;
+    width: 500px;
+}
+
+.boxWidth {
+    width: 80rem !important;
+}
+
 .center {
     align-items: center;
 }
