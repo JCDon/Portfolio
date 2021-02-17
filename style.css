@@ -69,6 +69,22 @@ body{
     margin-bottom: 30px;
 }
 
+.contain {
+    position: relative;
+  text-align: center;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 2px;
+    left: 16px;
+    font-size: 10px;
+}
+
+.infoText {
+    font-size: 14px;
+}
+
 @media screen and (max-width: 992px) {
     .white {
         max-width: 27rem;
@@ -88,4 +104,3 @@ body{
         max-width: 100%;
     }
   }
-
