@@ -4,30 +4,24 @@ Link to deployed site: [https://jcdon.github.io/PortfolioJCC/](https://jcdon.git
 
 ## Description
 
-```
 
 This site was created using bootstrap and html to create a site for displaying my personal portfolio. Three pages display my Main Info, Contact Info, and About Me Info. All links are active and working and lead to polished profiles and resume.
 
-```
 
-```
 This main page contains all of the projects that I am displaying and provides links and images for anyone wishing to view my work.
-```
+
 <img src="assets/images/portfolioMain.png" style="width: 50%;" />
 
-```
 This about page tells all about who I am and contains an image of myself at the Washington Youth Academy. At the bottom of the page are my contact info and links to my github, linkedIn, and resume.
-```
+
 <img src="assets/images/portfolioAbout.png" style="width: 50%" />
 
-```
 This contact page is the source for anyone viewing my portfolio to leave their contact info for me to review and reach out to them when ever they submit a contact request.
-```
+
 <img src="assets/images/portfolioContact.png" style="width: 50%" />
 
 ## License
 
-```
 MIT License
 
 Copyright (c) [year] [fullname]
@@ -49,10 +43,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
 
 ## Contact
-
-```
 
 Contact me, Jonathon Condon, at jcondonpro@gmail.com with any questions you may have.
