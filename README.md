@@ -24,7 +24,9 @@ This contact page is the source for anyone viewing my portfolio to leave their c
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2021 Jonathon Condon
+
+![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=green)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
