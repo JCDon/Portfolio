@@ -1,6 +1,6 @@
 # Portfolio
 
-A break down of my work on Homework #2:
+Link to deployed site: [https://jcdon.github.io/PortfolioJCC/](https://jcdon.github.io/PortfolioJCC/)
 
 I have included 3 webpages
     - one for Contact
